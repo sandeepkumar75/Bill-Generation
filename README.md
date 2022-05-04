@@ -120,7 +120,7 @@ $ npm install html-pdf -g
 $ npm link html-pdf
 $ npm link phantomjs-prebuilt
 ```
-
+<!-- 
 ## Docker
 
 Using docker is simple. Just add the .env contextualized with the docker network.
@@ -144,7 +144,7 @@ REACT_APP_API = http://localhost:5000
 REACT_APP_URL = http://localhost
 ```
 
-And run
+And run -->
 
 ## Comment
 I intend to keep adding more features to this application, so if you like it, please give it a star, that will encourage me to 
@@ -153,7 +153,7 @@ to keep improving the project.
 
 ## Author
 
-- Github: [@sandeep](https://github.com/sandeepkumar75)
-- Linkedin: [@sandeep](https://www.linkedin.com/in/san-deep-kumar/)
-- Email: [@sandeep](mailto:sandeepkumarnitjsr@gmail.com)
+- Github: [@sandeepkumar](https://github.com/sandeepkumar75)
+- Linkedin: [@sandeepkumar](https://www.linkedin.com/in/san-deep-kumar/)
+- Email: [@sandeepkumar](mailto:sandeepkumarnitjsr@gmail.com)
 
