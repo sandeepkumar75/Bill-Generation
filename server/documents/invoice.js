@@ -128,10 +128,10 @@ img {
 
       <div>
           <p class="title">Bill to:</p>
-          <h4>Panshak Solomon</h4>
-          <p>ipanshak@gmail.com</p>
+          <h4>Sandeep Kumar</h4>
+          <p>sandeepkumarnitjsr@gmail.com</p>
           <p>+234 803 057 3601</p>
-          <p>A.P. Leventis Ornithological Research</p>
+          <p>NIT Jamshedpur</p>
           <p>Institute, Jos</p>
       </div>
     </div>

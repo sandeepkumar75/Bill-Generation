@@ -148,8 +148,8 @@ hr {
         </div>
         
       <div class"footer">
-          <a href="https://arcinvoice.com">
-          <img class="footer-logo" src="https://i.postimg.cc/Nf5QGfbK/LV-Logo.png"/>
+        //   <a href="https://arcinvoice.com">
+          <img class="footer-logo" src="https://i.postimg.cc/nLzJVGZS/Invoicing.jpg"/>
         </a>
       </div>
     <p style="text-align: center">Thank you for visiting</p>
